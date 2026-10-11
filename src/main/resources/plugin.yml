@@ -1,0 +1,6 @@
+name: player-data-yml
+version: '${version}'
+
+main: me.george.playerdata.yml.PlayerDataStoragePlugin
+api-version: '26.1.1'
+
